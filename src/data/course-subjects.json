@@ -1,0 +1,110 @@
+[
+  {
+    "ID": 1,
+    "Subject Code": "XYZ 101",
+    "Subject Title": "Mathematics",
+    "Academic Unit": 3
+  },
+  {
+    "ID": 2,
+    "Subject Code": "ABC 201",
+    "Subject Title": "Chemistry",
+    "Academic Unit": 4
+  },
+  {
+    "ID": 3,
+    "Subject Code": "DEF 301",
+    "Subject Title": "Psychology",
+    "Academic Unit": 4
+  },
+  {
+    "ID": 4,
+    "Subject Code": "GHI 401",
+    "Subject Title": "Mathematics",
+    "Academic Unit": 3
+  },
+  {
+    "ID": 5,
+    "Subject Code": "JKL 501",
+    "Subject Title": "English",
+    "Academic Unit": 3
+  },
+  {
+    "ID": 6,
+    "Subject Code": "MNO 601",
+    "Subject Title": "Biology",
+    "Academic Unit": 4
+  },
+  {
+    "ID": 7,
+    "Subject Code": "ABC 701",
+    "Subject Title": "Chemistry",
+    "Academic Unit": 4
+  },
+  {
+    "ID": 8,
+    "Subject Code": "XYZ 801",
+    "Subject Title": "Mathematics",
+    "Academic Unit": 3
+  },
+  {
+    "ID": 9,
+    "Subject Code": "JKL 901",
+    "Subject Title": "English",
+    "Academic Unit": 3
+  },
+  {
+    "ID": 10,
+    "Subject Code": "GHI 1001",
+    "Subject Title": "Mathematics",
+    "Academic Unit": 3
+  },
+  {
+    "ID": 11,
+    "Subject Code": "DEF 1101",
+    "Subject Title": "Psychology",
+    "Academic Unit": 4
+  },
+  {
+    "ID": 12,
+    "Subject Code": "MNO 1201",
+    "Subject Title": "Biology",
+    "Academic Unit": 4
+  },
+  {
+    "ID": 13,
+    "Subject Code": "ABC 1301",
+    "Subject Title": "Chemistry",
+    "Academic Unit": 4
+  },
+  {
+    "ID": 14,
+    "Subject Code": "JKL 1401",
+    "Subject Title": "English",
+    "Academic Unit": 3
+  },
+  {
+    "ID": 15,
+    "Subject Code": "XYZ 1501",
+    "Subject Title": "Mathematics",
+    "Academic Unit": 3
+  },
+  {
+    "ID": 16,
+    "Subject Code": "GHI 1601",
+    "Subject Title": "Mathematics",
+    "Academic Unit": 3
+  },
+  {
+    "ID": 17,
+    "Subject Code": "DEF 1701",
+    "Subject Title": "Psychology",
+    "Academic Unit": 4
+  },
+  {
+    "ID": 18,
+    "Subject Code": "MNO 1801",
+    "Subject Title": "Biology",
+    "Academic Unit": 4
+  }
+]
