@@ -1,110 +1,110 @@
 [
   {
-    "ID": 1,
-    "Subject Code": "XYZ 101",
-    "Subject Title": "Mathematics",
-    "Academic Unit": 3
+    "id": 1,
+    "subjectCode": "CS-101",
+    "subjectTitle": "Introduction to Computer Science",
+    "academicUnit": "Faculty of Computer Science"
   },
   {
-    "ID": 2,
-    "Subject Code": "ABC 201",
-    "Subject Title": "Chemistry",
-    "Academic Unit": 4
+    "id": 2,
+    "subjectCode": "ENG-201",
+    "subjectTitle": "World Literature",
+    "academicUnit": "Faculty of Humanities"
   },
   {
-    "ID": 3,
-    "Subject Code": "DEF 301",
-    "Subject Title": "Psychology",
-    "Academic Unit": 4
+    "id": 3,
+    "subjectCode": "MATH-301",
+    "subjectTitle": "Linear Algebra",
+    "academicUnit": "Faculty of Mathematics"
   },
   {
-    "ID": 4,
-    "Subject Code": "GHI 401",
-    "Subject Title": "Mathematics",
-    "Academic Unit": 3
+    "id": 4,
+    "subjectCode": "BIO-401",
+    "subjectTitle": "Human Anatomy",
+    "academicUnit": "Faculty of Biology"
   },
   {
-    "ID": 5,
-    "Subject Code": "JKL 501",
-    "Subject Title": "English",
-    "Academic Unit": 3
+    "id": 5,
+    "subjectCode": "PSY-501",
+    "subjectTitle": "Abnormal Psychology",
+    "academicUnit": "Faculty of Psychology"
   },
   {
-    "ID": 6,
-    "Subject Code": "MNO 601",
-    "Subject Title": "Biology",
-    "Academic Unit": 4
+    "id": 6,
+    "subjectCode": "PHIL-601",
+    "subjectTitle": "Introduction to Ethics",
+    "academicUnit": "Faculty of Philosophy"
   },
   {
-    "ID": 7,
-    "Subject Code": "ABC 701",
-    "Subject Title": "Chemistry",
-    "Academic Unit": 4
+    "id": 7,
+    "subjectCode": "CHEM-701",
+    "subjectTitle": "Organic Chemistry",
+    "academicUnit": "Faculty of Chemistry"
   },
   {
-    "ID": 8,
-    "Subject Code": "XYZ 801",
-    "Subject Title": "Mathematics",
-    "Academic Unit": 3
+    "id": 8,
+    "subjectCode": "PHYS-801",
+    "subjectTitle": "Modern Physics",
+    "academicUnit": "Faculty of Physics"
   },
   {
-    "ID": 9,
-    "Subject Code": "JKL 901",
-    "Subject Title": "English",
-    "Academic Unit": 3
+    "id": 9,
+    "subjectCode": "ART-901",
+    "subjectTitle": "Introduction to Painting",
+    "academicUnit": "Faculty of Arts"
   },
   {
-    "ID": 10,
-    "Subject Code": "GHI 1001",
-    "Subject Title": "Mathematics",
-    "Academic Unit": 3
+    "id": 10,
+    "subjectCode": "HIST-1001",
+    "subjectTitle": "Modern European History",
+    "academicUnit": "Faculty of History"
   },
   {
-    "ID": 11,
-    "Subject Code": "DEF 1101",
-    "Subject Title": "Psychology",
-    "Academic Unit": 4
+    "id": 11,
+    "subjectCode": "ECO-1101",
+    "subjectTitle": "Microeconomics",
+    "academicUnit": "Faculty of Economics"
   },
   {
-    "ID": 12,
-    "Subject Code": "MNO 1201",
-    "Subject Title": "Biology",
-    "Academic Unit": 4
+    "id": 12,
+    "subjectCode": "QM-1158",
+    "subjectTitle": "Quantum Computing",
+    "academicUnit": "Faculty of Quantum Mechanics"
   },
   {
-    "ID": 13,
-    "Subject Code": "ABC 1301",
-    "Subject Title": "Chemistry",
-    "Academic Unit": 4
+    "id": 13,
+    "subjectCode": "ART-1301",
+    "subjectTitle": "Art History",
+    "academicUnit": "Faculty of Arts"
   },
   {
-    "ID": 14,
-    "Subject Code": "JKL 1401",
-    "Subject Title": "English",
-    "Academic Unit": 3
+    "id": 14,
+    "subjectCode": "GEOG-1401",
+    "subjectTitle": "Introduction to Human Geography",
+    "academicUnit": "Faculty of Geography"
   },
   {
-    "ID": 15,
-    "Subject Code": "XYZ 1501",
-    "Subject Title": "Mathematics",
-    "Academic Unit": 3
+    "id": 15,
+    "subjectCode": "SOC-1501",
+    "subjectTitle": "Sociology of Deviance",
+    "academicUnit": "Faculty of Sociology"
   },
   {
-    "ID": 16,
-    "Subject Code": "GHI 1601",
-    "Subject Title": "Mathematics",
-    "Academic Unit": 3
+    "id": 16,
+    "subjectCode": "PHIL-1601",
+    "subjectTitle": "Philosophy of Science",
+    "academicUnit": "Faculty of Philosophy"
   },
   {
-    "ID": 17,
-    "Subject Code": "DEF 1701",
-    "Subject Title": "Psychology",
-    "Academic Unit": 4
+    "id": 17,
+    "subjectCode": "STAT-1701",
+    "subjectTitle": "Probability and Statistics",
+    "academicUnit": "Faculty of Mathematics"
   },
   {
-    "ID": 18,
-    "Subject Code": "MNO 1801",
-    "Subject Title": "Biology",
-    "Academic Unit": 4
+    "id": 18,
+    "subjectCode": "ANTH-1801",
+    "subjectTitle": "Cultural Anthropology",
+    "academicUnit": "Department of Anthropology"
   }
 ]

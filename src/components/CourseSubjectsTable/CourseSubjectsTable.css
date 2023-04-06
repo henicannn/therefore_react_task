@@ -1,0 +1,74 @@
+.course_subjects_table {
+  max-width: 1000px;
+  margin: 2rem auto;
+  border: 1px solid #ccc;
+}
+
+.table_titles {
+  font-family: 'Poppins', sans-serif !important;
+  font-weight: bold !important;
+  font-size: 1.2rem !important;
+  text-align: left !important;
+  padding: 1rem !important;
+  background-color: #00c7eb;
+}
+
+.table_data {
+  font-family: 'Poppins', sans-serif !important;
+  font-size: 1rem !important;
+}
+
+.course_subjects_table tbody tr:nth-child(even) {
+  background-color: #ebfcff;
+}
+
+.course_subjects_table tbody tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+.course_subjects_table tbody td {
+  padding: 1rem;
+  text-align: left;
+}
+
+.filter-buttons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.filter-buttons label {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  font-size: 1.8rem;
+  margin-right: 1rem;
+  padding: 1rem;
+}
+
+.button-group {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 1000px;
+}
+
+.button {
+  border: none;
+  background-color: transparent;
+  font-family: 'Poppins', sans-serif;
+  width: 2.3rem;
+  font-size: 1.1rem;
+  border: 1px solid #93efff;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.button:hover {
+  color: #fff;
+  background-color: #93efff;
+}
+
+.button.active {
+  color: #fff;
+  background-color: #93efff;
+}
